@@ -1,0 +1,23 @@
+Mushroom results:
+	iteration: 0, m_entropy_acc: 1.000000, m_gini_acc: 1.000000
+	iteration: 1, m_entropy_acc: 1.000000, m_gini_acc: 1.000000
+	iteration: 2, m_entropy_acc: 1.000000, m_gini_acc: 1.000000
+	iteration: 3, m_entropy_acc: 1.000000, m_gini_acc: 1.000000
+	iteration: 4, m_entropy_acc: 1.000000, m_gini_acc: 1.000000
+	iteration: 5, m_entropy_acc: 1.000000, m_gini_acc: 1.000000
+	iteration: 6, m_entropy_acc: 1.000000, m_gini_acc: 1.000000
+	iteration: 7, m_entropy_acc: 1.000000, m_gini_acc: 1.000000
+	iteration: 8, m_entropy_acc: 1.000000, m_gini_acc: 1.000000
+	iteration: 9, m_entropy_acc: 1.000000, m_gini_acc: 1.000000
+
+Iris results:
+	iteration: 0, i_entropy_acc: 0.973684, i_gini_acc: 0.973684
+	iteration: 1, i_entropy_acc: 0.973684, i_gini_acc: 0.973684
+	iteration: 2, i_entropy_acc: 0.947368, i_gini_acc: 0.947368
+	iteration: 3, i_entropy_acc: 0.947368, i_gini_acc: 0.947368
+	iteration: 4, i_entropy_acc: 0.973684, i_gini_acc: 0.973684
+	iteration: 5, i_entropy_acc: 0.921053, i_gini_acc: 0.921053
+	iteration: 6, i_entropy_acc: 0.947368, i_gini_acc: 0.947368
+	iteration: 7, i_entropy_acc: 0.921053, i_gini_acc: 0.921053
+	iteration: 8, i_entropy_acc: 0.894737, i_gini_acc: 0.894737
+	iteration: 9, i_entropy_acc: 1.000000, i_gini_acc: 1.000000
