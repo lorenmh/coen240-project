@@ -52,7 +52,7 @@ i_Y = i_data.values[:,4]
 
 for i in range(10):
     i_X_train, i_X_test, i_Y_train, i_Y_test = train_test_split(
-            i_X, i_Y, test_size=0.25, random_state=i*50
+            i_X, i_Y, test_size=0.25, random_state=i
     )
 
     i_entropy = DecisionTreeClassifier(criterion='entropy')
